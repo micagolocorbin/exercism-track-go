@@ -1,1 +1,1 @@
-# My solutions for go track from [exercism.io](https://exercism.org/profiles/micagolocorbin)
+# My solutions for Go track from [exercism.io](https://exercism.org/profiles/micagolocorbin/solutions?track_slug=go)
